@@ -1,3 +1,3 @@
 # AnjinVirtualComputer
 A virtual computer running in Unity using the Qemu emulator
-See the Wiki for details
+See the wiki https://github.com/SimonJGillespie/AnjinVirtualComputer/wiki for details
